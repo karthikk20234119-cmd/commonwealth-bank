@@ -405,3 +405,15 @@ ASALocalRun/
 .localhistory/
 
 
+
+
+# Antigravity Git Manager added ignores
+.venv/
+venv/
+dist/
+build/
+target/
+coverage/
+.env
+.env.local
+.vscode/
